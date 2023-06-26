@@ -1,0 +1,1 @@
+# co-kco-mk-install-kubectl-u22
